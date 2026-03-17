@@ -1,0 +1,7 @@
+general: {
+	# OpenSim-specific AudioBridge skeleton plugin configuration
+	# This scaffold currently has no runtime options.
+
+	# Whether event notifications are enabled (reserved for future use)
+	events = true
+}
